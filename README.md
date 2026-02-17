@@ -1,6 +1,11 @@
 # pm-prompts
 A collection of skills, slash commands, and prompts that I find useful in my day-to-day.
 
+## Getting Started
+
+### [PM Copilot Instructions (Simple)](instructions/getting-started/pm-copilot-instructions-simple.md)
+A starter prompt for using Claude or ChatGPT as a product management coach and advisor. Paste it into a custom instruction or system prompt and start chatting. This is the training-wheels version — a good foundation to build on as you get more comfortable with what these tools can do.
+
 ## Commands
 
 ### `/improve-prompt`
